@@ -13,12 +13,16 @@ body {
     background-color: #999;
     font-size: 62.5%;
 }
+.break{
+    border-bottom-style: dashed;
+    border-color: darkcyan;
+}
 p {
     padding-bottom: 11px;
     padding-left: 50px;
     padding-right: 50px;
-    border-bottom-style: dashed;
-    border-color: darkcyan;
+    border: none;
+    text-indent: 2.0em;
 }
 
 a {
@@ -56,14 +60,7 @@ ul, menu, dir {
     text-align: center;
     border: none;
 }
-.para{
-    display: block;
-    -webkit-margin-before: 1em;
-    -webkit-margin-after: 1em;
-    -webkit-margin-end: 0px;
-    text-indent: 2.0em;
-    border: none;
-}
+
 .rounded{
     border-radius: 8px;
     display: block;
