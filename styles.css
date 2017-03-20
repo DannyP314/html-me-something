@@ -13,6 +13,13 @@ body {
     background-color: #999;
     font-size: 62.5%;
 }
+p {
+    padding-bottom: 11px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-bottom-style: dashed;
+    border-color: darkcyan;
+}
 a {
     color: red;
 }
@@ -44,10 +51,9 @@ ul, menu, dir {
     display: block;
     -webkit-margin-before: 1em;
     -webkit-margin-after: 1em;
-    -webkit-margin-start: 250px;
     -webkit-margin-end: 0px;
-    color: white;
     text-align: center
+    border: none;
 }
 .rounded{
     border-radius: 8px;
@@ -62,17 +68,13 @@ ul, menu, dir {
     margin: auto;
     width: 50%;
 }
-#body {
-
-    background-image: url(http://eskipaper.com/images/forest-background-5.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
+pre {
+    font-size: 14px;
 
 }
-
 body {
     margin: 0;
+    background-color: #F1F1D4;
 }
 user agent stylesheet
 body {
