@@ -20,6 +20,9 @@ p {
     border-bottom-style: dashed;
     border-color: darkcyan;
 }
+.para {
+    text-indent: 2em;
+}
 a {
     color: red;
 }
