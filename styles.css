@@ -21,7 +21,8 @@ p {
     border-color: darkcyan;
 }
 .para {
-    text-indent: 2em;
+    text-indent: 25px;
+    border: none;
 }
 a {
     color: red;
