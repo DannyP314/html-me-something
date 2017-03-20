@@ -37,7 +37,7 @@ a {
     color: #204060;
     text-decoration: none;
 }
-nav ul li a {
+li a {
     display: block;
     width: 60px;
     font-size: 25px;
@@ -48,7 +48,7 @@ nav ul li a {
     text-decoration: none;
     text-align: center;
 }
-nav ul {
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
