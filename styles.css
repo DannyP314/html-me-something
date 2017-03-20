@@ -20,10 +20,7 @@ p {
     border-bottom-style: dashed;
     border-color: darkcyan;
 }
-.para {
-    text-indent: 2.0em;
-    border: none;
-}
+
 a {
     color: red;
 }
@@ -57,6 +54,14 @@ ul, menu, dir {
     -webkit-margin-after: 1em;
     -webkit-margin-end: 0px;
     text-align: center;
+    border: none;
+}
+.para{
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-end: 0px;
+    text-indent: 2.0em;
     border: none;
 }
 .rounded{
