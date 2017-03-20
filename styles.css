@@ -39,12 +39,11 @@ a {
 }
 li a {
     display: block;
-    width: 60px;
+    width: 417px;
     font-size: 25px;
     font-weight: bold;
     font-family: 'Jim Nightshade', cursive;
-    color: white;
-    padding: 14px 16px;
+    padding: 10px 16px;
     text-decoration: none;
     text-align: center;
 }
@@ -73,6 +72,7 @@ ul, menu, dir {
     height: 500px;
     display: block;
     margin: auto;
+    padding-bottom: 13px;
 }
 .caption{
     display: block;
@@ -89,6 +89,7 @@ ul, menu, dir {
     margin: auto;
     width: 50%;
     height: 50%;
+    padding-top: 18px;
 }
 #circled{
     border-radius: 50%;
@@ -117,6 +118,8 @@ h2 {
     color: #333300;
     font-family: 'Jim Nightshade', cursive;
     font-size: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 #center{
     text-align: center;
